@@ -34,4 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekromenzer&show_icons=true&locale=en&layout=compact" alt="nekromenzer" /></p>
 <br>
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekromenzer&show_icons=true&locale=en" alt="nekromenzer" /></p>
