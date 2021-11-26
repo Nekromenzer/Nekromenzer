@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maneesha Gimshan</h1>
 <h3 align="center">A passionate Software Developer from Sri lanka </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nekromenzer&label=Profile%20views&color=0e75b6&style=flat" alt="nekromenzer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nekromenzer&label=Profile%20views&color=eb4034&style=flat" alt="nekromenzer" /> </p>
 
 - 🔭 I’m currently working on **Qualia Tech International**
 
