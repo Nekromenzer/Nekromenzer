@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maneesha Gimshan</h1>
-<h3 align="center">A passionate Software Engineer from 🇱🇰 </h3>
+<h3 align="center">A passionate Software Engineer from &#x1F1F1;&#x1F1F0; </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nekromenzer&label=Profile%20views&color=eb4034&style=flat" alt="nekromenzer" /> </p>
 
