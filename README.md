@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nekromenzer&label=Profile%20views&color=eb4034&style=flat" alt="nekromenzer" /> </p>
 
-- 🔭 I’m currently working on **Qualia Tech International**
+- 🔭 I’m currently working on **Parkway Labs**
 
-- 🌱 I’m currently learning **Graphql / Firebase / React native**
+- 🌱 I’m currently learning **Graphql / Firebase / React native / Redux**
 
 - 👯 I’m looking to collaborate on **React projects**
 
 - 📝 I regularly write articles on [https://frontendnoobs.xyz/](https://frontendnoobs.xyz/)
 
-- 💬 Ask me about **React / Next / Bootstrap / ANT design**
+- 💬 Ask me about **React / Next / Bootstrap / ANT design / Chakra UI /Tailwind**
 
 - 📫 How to reach me **bagimshan@gmail.com**
 
@@ -37,3 +37,4 @@
 <br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekromenzer&show_icons=true&locale=en" alt="nekromenzer" /></p>
+ 
