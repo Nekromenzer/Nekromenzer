@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Graphql / Firebase / React native / Redux
 
-👯 I’m looking to collaborate on React projects
+👯 I’m looking to collaborate on React/NEXT projects
 
 📝 I regularly write articles on https://frontendnoobs.xyz/
 
