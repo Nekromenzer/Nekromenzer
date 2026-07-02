@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Parkway Labs<br>🌱 I’m currently learning Graphql / Firebase / React Native / Redux<br>👯 I’m looking to collaborate on React/NEXT projects<br>💬 Ask me about React / Next / Typescript / React native / Javascript <br>📫 How to reach me bagimshan@gmail.com<br>⚡ Fun fact Self-talking One 😁<br>
+🔭 I’m currently working at Dubai Technologies<br>🌱 I’m currently learning  Agentic Dev / React Native / AWS / GCC<br>👯 I’m looking to collaborate on React/NEXT projects<br>💬 Ask me about React / Next / TypeScript / React native / JavaScript <br>📫 How to reach me: bagimshan@gmail.com<br>⚡ Fun fact: Self-talking One 😁<br>
 
 
 ## 🌐 Socials:
