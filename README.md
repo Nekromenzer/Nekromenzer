@@ -1,29 +1,180 @@
-# 💫 About Me:
-🔭 I’m currently working at Dubai Technologies<br>🌱 I’m currently learning  Agentic Dev / React Native / AWS / GCC<br>👯 I’m looking to collaborate on React/NEXT projects<br>💬 Ask me about React / Next / TypeScript / React native / JavaScript <br>📫 How to reach me: bagimshan@gmail.com<br>⚡ Fun fact: Self-talking One 😁<br>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Maneesha%20Barandeniya&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Senior%20Frontend%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20React%20Native&descSize=16&descAlignY=55" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maneesha-gimshan) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nekromenzer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nekromenzer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nekromenzer) 
+<a href="https://github.com/Nekromenzer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=7%2B+years+crafting+frontend+experiences;React+%7C+Next.js+%7C+TypeScript+%7C+React+Native;Micro-Frontends+%26+Monorepo+Architecture;FinTech+%E2%80%A2+SaaS+%E2%80%A2+Maps+%E2%80%A2+Mobile;Building+pixel-perfect%2C+performant+UIs+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=plastic&logo=stylus&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nekromenzer&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekromenzer&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nekromenzer&theme=tokyonight&hide_border=true)<br/>
+<br/>
 
+<!-- ═══════════════════════════ SOCIALS ═══════════════════════════ -->
+<a href="https://linkedin.com/in/maneesha-gimshan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bagimshan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/nekromenzer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://youtube.com/@nekromenzer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://tiktok.com/@nekromenzer"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+<a href="https://buymeacoffee.com/nekromenzer"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://komarev.com/ghpvc/?username=Nekromenzer&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nekromenzer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Nekromenzer&icon=6&color=9)](https://visitcount.itsvg.in)
+<br/>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nekromenzer) 
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## 🧑‍🚀 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```typescript
+const maneesha = {
+  role: "Senior Frontend Engineer @ Dubai Technologies 🇦🇪",
+  experience: "7+ years",
+  location: "Sri Lanka 🇱🇰 (Remote-first)",
+  code: ["TypeScript", "JavaScript ES6+"],
+  frontend: ["React", "Next.js", "React Native", "Redux", "Zustand"],
+  architecture: ["Micro-Frontends", "Monorepo", "Component-Driven Design"],
+  currentlyLearning: ["Agentic Dev 🤖", "AWS ☁️", "GCP"],
+  askMeAbout: ["React", "Next.js", "TypeScript", "React Native", "Maps 🗺️"],
+  funFact: "Self-talking one 😁",
+  reachMe: "bagimshan@gmail.com",
+};
+```
+
+<br/>
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Core
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux&theme=dark" />
+
+### Mobile & Styling
+<img src="https://skillicons.dev/icons?i=tailwind,sass,materialui,figma,html,css&theme=dark" />
+
+### Testing, Tooling & Cloud
+<img src="https://skillicons.dev/icons?i=jest,vite,docker,azure,firebase,git&theme=dark" />
+
+<br/>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Testing Library](https://img.shields.io/badge/React_Testing_Lib-E33332?style=flat-square&logo=testing-library&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+![Micro Frontends](https://img.shields.io/badge/Micro--Frontends-7aa2f7?style=flat-square&logo=webpack&logoColor=white)
+![Monorepo](https://img.shields.io/badge/Monorepo-2C2C32?style=flat-square&logo=turborepo&logoColor=EF4444)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
+## 💼 Where I've Made an Impact
+
+<table>
+  <tr>
+    <td align="center">🏢</td>
+    <td><b>Dubai Technologies</b> · Senior React Developer</td>
+    <td><i>2024 → Present</i></td>
+    <td>Micro-frontend architecture · Leaflet/Mapbox maps <b>+60% render speed</b> · security-first auth flows · mentoring</td>
+  </tr>
+  <tr>
+    <td align="center">🏦</td>
+    <td><b>Parkway Labs</b> 🇳🇱 · Software Engineer</td>
+    <td><i>2022 → 2024</i></td>
+    <td>Cross-platform FinTech & crypto apps in React Native · monorepo architecture · smart-contract integrations</td>
+  </tr>
+  <tr>
+    <td align="center">🚀</td>
+    <td><b>Qualia Tech</b> 🇸🇪 · Software Developer</td>
+    <td><i>2021 → 2022</i></td>
+    <td>SaaS admin panels with Next.js + TypeScript serving <b>thousands of users</b> across regions</td>
+  </tr>
+  <tr>
+    <td align="center">🌱</td>
+    <td><b>Treeloq</b> 🇱🇰 · Frontend Developer</td>
+    <td><i>2019 → 2021</i></td>
+    <td>Online resume builder · WCAG-accessible UIs · <b>-30% page load times</b></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## 🚧 Featured Builds
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 AI Resume Management System</h3>
+      <p align="center">
+        AI-driven resume creation & enhancement tailored to job descriptions —
+        smart candidate ↔ employer matching, built with React + TypeScript.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-7aa2f7?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚕 TurnTaxi</h3>
+      <p align="center">
+        Full Uber-style platform — live driver tracking, trip state machine,
+        Google Maps routing, fare calculation & push notifications.
+        <b>Firestore usage optimized by 40%.</b>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nekromenzer&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekromenzer&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nekromenzer&theme=tokyonight&hide_border=true" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nekromenzer&theme=tokyo-night&hide_border=true&area=true" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nekromenzer&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ QUOTE + FOOTER ═══════════════════════════ -->
+<div align="center">
+
+### ✍️ Dev Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="snake animation"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" width="100%"/>
+
+**💙 Thanks for stopping by — let's build something great together!**
+
+</div>
