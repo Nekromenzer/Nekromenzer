@@ -30,7 +30,6 @@
 const maneesha = {
   role: "Senior Frontend Engineer @ Dubai Technologies 🇦🇪",
   experience: "7+ years",
-  location: "Sri Lanka 🇱🇰 (Remote-first)",
   code: ["TypeScript", "JavaScript ES6+"],
   frontend: ["React", "Next.js", "React Native", "Redux", "Zustand"],
   architecture: ["Micro-Frontends", "Monorepo", "Component-Driven Design"],
@@ -165,15 +164,6 @@ const maneesha = {
 
 <!-- ═══════════════════════════ QUOTE + FOOTER ═══════════════════════════ -->
 <div align="center">
-
-### ✍️ Dev Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="snake animation"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" width="100%"/>
 
 **💙 Thanks for stopping by — let's build something great together!**
 
