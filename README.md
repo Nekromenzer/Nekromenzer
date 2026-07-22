@@ -147,11 +147,16 @@ const maneesha = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nekromenzer&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<br/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekromenzer&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nekromenzer&theme=tokyonight&hide_border=true&disable_animations=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nekromenzer&theme=tokyonight&hide_border=true&disable_animations=true&layout=compact&langs_count=8" />
 
-<br/><br/>
+<br/>
+
+<img height="180" src="https://streak-stats.demolab.com/?user=Nekromenzer&theme=tokyonight&hide_border=true&disable_animations=true" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nekromenzer&theme=tokyo-night&hide_border=true&custom_title=Commit%20Activity&area=true" />
 
 </div>
 
