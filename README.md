@@ -148,15 +148,10 @@ const maneesha = {
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nekromenzer&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<br/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekromenzer&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nekromenzer&theme=tokyonight&hide_border=true" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nekromenzer&theme=tokyo-night&hide_border=true&area=true" />
-
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nekromenzer&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
